@@ -47,14 +47,14 @@ Users can search for Pokémon, view detailed stats in bar charts, see types/abil
 
 ## Run Backend (Spring Boot)
 
-### Requirements: Java 17 + Maven
+#### Requirements: Java 17 + Maven
 
 - cd backend
 - mvn spring-boot:run
 
 ## Run Frontend (React + Tailwind)
 
-### Requirements: Node.js 16+
+#### Requirements: Node.js 16+
 
 - cd ../frontend
 - npm install
