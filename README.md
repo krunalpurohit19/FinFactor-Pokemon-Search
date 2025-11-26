@@ -20,7 +20,6 @@ Users can search for Pokémon, view detailed stats in bar charts, see types/abil
 
 - React.js (Vite)
 - TailwindCSS
-- ReCharts (Bar Charts for stats visualization)
 
 ### ⚙ Backend
 
@@ -45,19 +44,6 @@ Users can search for Pokémon, view detailed stats in bar charts, see types/abil
 | ❌ Error Handling  | Friendly messaging for invalid search       |
 
 ---
-
-## 📂 Project Structure
-
-/
-├── backend/ # Spring Boot REST API
-│ ├── src/main/java/com/example/pokemon
-│ ├── pom.xml
-│ └── application.properties
-│
-└── frontend/ # React + Tailwind App
-├── src/
-├── package.json
-└── tailwind.config.js
 
 ## Run Backend (Spring Boot)
 
