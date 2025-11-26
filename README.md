@@ -10,9 +10,7 @@ Users can search for Pokémon, view detailed stats in bar charts, see types/abil
 
 ## ⭐ Screenshot
 
-> 📌 Placeholder below — Upload your screenshot inside a `screenshots/` folder after pushing to GitHub.
-
-![App Screenshot](./screenshots/pokedex-ui.png)
+![Homepage Screenshot](image.png)
 
 ---
 
@@ -65,17 +63,13 @@ Users can search for Pokémon, view detailed stats in bar charts, see types/abil
 
 ### Requirements: Java 17 + Maven
 
-cd backend
-mvn spring-boot:run
+- cd backend
+- mvn spring-boot:run
 
 ## Run Frontend (React + Tailwind)
 
 ### Requirements: Node.js 16+
 
-cd ../frontend
-npm install
-npm run dev
-
-## Screenshot
-
-![Homepage Screenshot](image.png)
+- cd ../frontend
+- npm install
+- npm run dev
